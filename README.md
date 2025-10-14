@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I work in one of the startups in Indonesia with the position of software engineer and I have been working for more than 4 years in the position of frontend dev programmer.<br>I mastered the Vue and React stack. More use vue or nuxt in web development or dashboard panel. <br>more questions about me can visit my web.<br><br>syahendra.com
+I have been working for more than 5 years in the position of frontend dev programmer.<br>I mastered the Vue and React stack. More use vue or nuxt in web development or dashboard panel. <br>more questions about me can visit my web.<br><br>syahendra.com
 
 ## 🌐 Socials:
 
